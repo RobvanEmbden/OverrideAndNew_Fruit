@@ -1,0 +1,15 @@
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.csprojAssemblyReference.cache
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.AssemblyInfoInputs.cache
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.AssemblyInfo.cs
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/bin/Debug/net5.0/OverrideAndNew_Fruit.deps.json
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/bin/Debug/net5.0/OverrideAndNew_Fruit.runtimeconfig.json
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/bin/Debug/net5.0/OverrideAndNew_Fruit.runtimeconfig.dev.json
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/bin/Debug/net5.0/OverrideAndNew_Fruit.dll
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/bin/Debug/net5.0/ref/OverrideAndNew_Fruit.dll
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/bin/Debug/net5.0/OverrideAndNew_Fruit.pdb
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.dll
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/ref/OverrideAndNew_Fruit.dll
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.pdb
+/Users/rob/Projects/OverrideAndNew_Fruit/OverrideAndNew_Fruit/obj/Debug/net5.0/OverrideAndNew_Fruit.genruntimeconfig.cache
